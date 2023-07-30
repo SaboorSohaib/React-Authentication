@@ -3,7 +3,7 @@
 
 <div align="center">
 
-  <h1><b>React Web Application</b></h2>
+  <h1><b>React Authentication App</b></h2>
 
 </div>
 
@@ -12,7 +12,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 React Web Application](#React-Web-Application)
+- [📖 React Authentication App](#React-Authentication-App)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -34,10 +34,9 @@
 <!-- PROJECT DESCRIPTION -->
 
 
-# 📖 React Web Application <a name="about-project"></a>
+# 📖 React Authentication App <a name="about-project"></a>
 
-> This is a full-stack project. In which you can register yourself create a doctor, book an appointment
-with the doctor, see all appiontmnets, delete a doctor(s).
+> This is a React authentication application that let users to register, log in, log out, and securely access their personalized dashboard, and see information.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -53,14 +52,14 @@ with the doctor, see all appiontmnets, delete a doctor(s).
 <details>
   <summary>Server</summary>
   <ul>
-    <li>Ruby on Rails</li>
+    <li>React</li>
   </ul>
 </details>
 
 <details>
 <summary>Database</summary>
   <ul>
-    <li>Postgresql</li>
+    <li>React</li>
   </ul>
 </details>
 
