@@ -5,7 +5,7 @@ import APIUrl from '../url';
 export const createAccount = async (reqBody) => {
   try {
     const response = await axios.post(`${APIUrl}users`, { user: reqBody });
-    toast.success('Signed Up Successfully');
+    toast.success('User Created Successfully');
     return response.data;
   } catch (error) {
     const errorMessage = error.message;
