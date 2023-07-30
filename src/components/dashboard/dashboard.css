@@ -38,11 +38,11 @@
 
 @media screen and (max-width: 600px) {
   .authenticated__route {
-    gap: 50px; 
+    gap: 50px;
   }
 
   .dashboard__title {
-    display: none; 
+    display: none;
   }
 
   .dashboard__container {
