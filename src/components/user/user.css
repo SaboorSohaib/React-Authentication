@@ -1,0 +1,22 @@
+.user__contaier {
+  display: flex;
+  flex-direction: column;
+  padding-top: 30px;
+}
+
+.user__info {
+  display: flex;
+  gap: 10px;
+}
+
+@media screen and (max-width: 1024px) {
+  .user__contaier {
+    width: var(--container-width-md);
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .user__contaier {
+    width: var(--container-width-sm);
+  }
+}
